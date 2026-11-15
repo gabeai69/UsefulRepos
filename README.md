@@ -10,3 +10,5 @@
 - https://github.com/blixvip/MotionClone
 - https://github.com/rohitg00/ai-engineering-from-scratch
 - https://github.com/anthropics/skills
+- https://github.com/upstash/context7
+- https://github.com/affaan-m/ECC
