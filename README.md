@@ -9,3 +9,4 @@
 - https://github.com/immich-app/immich
 - https://github.com/blixvip/MotionClone
 - https://github.com/rohitg00/ai-engineering-from-scratch
+- https://github.com/anthropics/skills
