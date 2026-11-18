@@ -16,3 +16,4 @@
 - https://github.com/vercel-labs/agent-desktop
 - https://github.com/erkamyaman/rust-anything
 - https://github.com/storytold/craft-anything
+- https://github.com/Pomerado/pomerado
