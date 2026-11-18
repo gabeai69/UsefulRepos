@@ -12,3 +12,4 @@
 - https://github.com/anthropics/skills
 - https://github.com/upstash/context7
 - https://github.com/affaan-m/ECC
+- https://github.com/RVC-Boss/GPT-SoVITS
