@@ -14,3 +14,4 @@
 - https://github.com/affaan-m/ECC
 - https://github.com/RVC-Boss/GPT-SoVITS
 - https://github.com/vercel-labs/agent-desktop
+- https://github.com/erkamyaman/rust-anything
