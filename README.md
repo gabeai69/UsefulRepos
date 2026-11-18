@@ -15,3 +15,4 @@
 - https://github.com/RVC-Boss/GPT-SoVITS
 - https://github.com/vercel-labs/agent-desktop
 - https://github.com/erkamyaman/rust-anything
+- https://github.com/storytold/craft-anything
