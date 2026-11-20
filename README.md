@@ -1,5 +1,5 @@
 # ai_repo
-
+## SKILLS
 - [https://github.com/gabeai69/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)
 - https://github.com/lemomo-ai/lemo-opuscar
 - https://github.com/kaomei/stickman-video-director
@@ -31,6 +31,10 @@
 - https://github.com/actionbook/rust-skills
 
 ---
-Tutorial
+## TOOLS
+- https://github.com/Tencent/LoopForge
+  
+---
+## Tutorial
 - https://github.com/rohitg00/ai-engineering-from-scratch
 - https://github.com/anthropics/prompt-eng-interactive-tutorial
