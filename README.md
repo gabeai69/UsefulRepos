@@ -19,6 +19,8 @@
 - https://github.com/Pomerado/pomerado
 - https://github.com/Jakeschincariol/replica-skill
 - https://github.com/BaaRai/ARTEX
+- https://github.com/ComposioHQ/awesome-claude-skills
+- https://github.com/pbakaus/impeccable
 
 ---
 Tutorial
