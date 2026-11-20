@@ -21,6 +21,14 @@
 - https://github.com/BaaRai/ARTEX
 - https://github.com/ComposioHQ/awesome-claude-skills
 - https://github.com/pbakaus/impeccable
+- https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- https://github.com/Egonex-AI/Understand-Anything
+- https://github.com/juliusbrussee/caveman
+- https://github.com/obra/superpowers
+- https://github.com/addyosmani/agent-skills
+- https://github.com/tt-a1i/archify
+- https://github.com/anthropics/skills
+- https://github.com/midudev/autoskills
 
 ---
 Tutorial
