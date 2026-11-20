@@ -29,6 +29,7 @@
 - https://github.com/tt-a1i/archify
 - https://github.com/anthropics/skills
 - https://github.com/midudev/autoskills
+- https://github.com/actionbook/rust-skills
 
 ---
 Tutorial
