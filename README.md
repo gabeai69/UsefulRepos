@@ -1,6 +1,11 @@
-# ai_repo
+# 🤖 Useful Repo
 
-Kumpulan repo berguna, dikelompokkan per fungsi.
+> Kumpulan repo pilihan untuk memperkuat AI coding agent: skills, tools, media, dan tutorial.
+> Semua sudah di-clone di `repos/` untuk referensi cepat.
+
+![Skills](https://img.shields.io/badge/skills-18-8A2BE2) ![Tools](https://img.shields.io/badge/tools-12-blue) ![Video](https://img.shields.io/badge/video--media-4-orange) ![Tutorial](https://img.shields.io/badge/tutorial-2-green)
+
+---
 
 ## Skills (Claude/agent skills)
 
