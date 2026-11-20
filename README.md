@@ -19,3 +19,7 @@
 - https://github.com/Pomerado/pomerado
 - https://github.com/Jakeschincariol/replica-skill
 - https://github.com/BaaRai/ARTEX
+
+---
+Tutorial
+- https://github.com/anthropics/prompt-eng-interactive-tutorial
