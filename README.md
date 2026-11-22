@@ -1,7 +1,7 @@
 # 🤖 Useful Repo
 
 > Kumpulan repo pilihan untuk memperkuat AI coding agent: skills, tools, media, dan tutorial.
-> Semua sudah di-clone di `repos/` untuk referensi cepat.
+> Semua sudah di-clone di `repos/` untuk referensi cepat, kecuali yang ditandai tidak bisa diakses.
 
 ![Skills](https://img.shields.io/badge/skills-18-8A2BE2) ![Tools](https://img.shields.io/badge/tools-12-blue) ![Video](https://img.shields.io/badge/video--media-4-orange) ![Tutorial](https://img.shields.io/badge/tutorial-2-green)
 
@@ -50,7 +50,7 @@
 - [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - koleksi video viral buatan Claude Opus 5.5 beserta prompt aslinya
 - [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - 99 gaya film untuk coding agent; pilih gaya, agent membuat filmnya dalam kode
 - [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - satu pesan ke AI agent, langsung jadi video stickman lengkap dengan script, voiceover, dan caption
-- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - (repo tidak bisa diakses, link disimpan sebagai referensi)
+- [blixvip/MotionClone](https://github.com/blixvip/MotionClone) - ⚠️ (repo tidak bisa diakses: private atau sudah dihapus, tidak di-clone; link disimpan sebagai referensi)
 
 ## Tutorial
 
