@@ -44,6 +44,7 @@
 - [Pomerado/pomerado](https://github.com/Pomerado/pomerado) - ubah website menjadi integrasi MCP yang bisa diandalkan agent
 - [Codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - codebase-memory-mcp: local code intelligence for AI agents via MCP
 - [REA Video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video
+- [Hermes Profiles](https://github.com/magnus919/hermes-profiles) - Hermes Profiles
 
 ## Video / Media
 
