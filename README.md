@@ -46,7 +46,6 @@
 - [REA Video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video
 - [Hermes Profiles](https://github.com/magnus919/hermes-profiles) - Hermes Profiles
 - [Reverse Engineering Agent](https://github.com/morluto/rea) - REA
-- [Replica Skill](https://github.com/Jakeschincariol/replica-skill) - Replicate aplication
 
 ## Video / Media
 
