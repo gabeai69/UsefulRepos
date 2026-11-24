@@ -45,6 +45,7 @@
 - [Codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - codebase-memory-mcp: local code intelligence for AI agents via MCP
 - [REA Video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video
 - [Hermes Profiles](https://github.com/magnus919/hermes-profiles) - Hermes Profiles
+- [Reverse Engineering Agent](https://github.com/morluto/rea) - REA
 
 ## Video / Media
 
