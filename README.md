@@ -47,6 +47,7 @@
 - [Hermes Profiles](https://github.com/magnus919/hermes-profiles) - Hermes Profiles
 - [Reverse Engineering Agent](https://github.com/morluto/rea) - REA
 - [End to End](https://github.com/e2e-inc/e2e) - E2E
+- [Herdr](https://github.com/herdrdev/herdr) - Herdr
 
 ## Video / Media
 
