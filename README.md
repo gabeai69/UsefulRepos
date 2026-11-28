@@ -27,6 +27,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - ubah codebase, knowledge base, atau docs menjadi knowledge graph interaktif
 - [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - penetration testing otonom yang menyimpan jejak bukti
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - plugin coding AI: 72 agent, 328 skill, 99 command, TDD dan review otomatis
+- [Awesome Claude Video Motion](https://github.com/zhuyansen/awesome-claude-video-skills) - Awesome Claude Video Motion
 
 ## Tools
 
